@@ -7,7 +7,19 @@
     padding: 0;
 }
 
+html, body{
+    height: 100%;
+}
+
+header{
+    text-align: center;
+    
+}
+
 body {
-    font-family: "Raleway", sans-serif;
-    font-weight: 300;
+    font-family: Raleway, sans-serif;
+}
+
+body {
+    background-color: #efecec;
 }
